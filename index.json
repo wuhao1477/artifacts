@@ -7,7 +7,7 @@
     "baidupan-checkin": {
       "latest": "0.6.0-alpha.6",
       "tag": "baidupan-checkin-v0.6.0-alpha.6",
-      "released_at": "2026-11-03T09:25:25Z",
+      "released_at": "2026-11-03T09:53:02Z",
       "description": "百度网盘自动签到（纯协议，Bun/TS）",
       "platforms": [
         "🍏 macOS arm64",
@@ -22,5 +22,5 @@
       "release_url": "https://github.com/wuhao1477/artifacts/releases/tag/baidupan-checkin-v0.6.0-alpha.6"
     }
   },
-  "updated_at": "2026-11-03T09:25:25Z"
+  "updated_at": "2026-11-03T09:53:02Z"
 }
