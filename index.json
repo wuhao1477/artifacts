@@ -5,16 +5,16 @@
   "note": "本文件是全局索引；每个项目的详细清单见 <project>/version.json（由 CI 在发布时自动更新）",
   "projects": {
     "baidupan-checkin": {
-      "latest": "0.6.0-alpha.7",
-      "tag": "baidupan-checkin-v0.6.0-alpha.7",
-      "released_at": "2026-11-03T10:33:02Z",
+      "latest": "0.6.0-alpha.8",
+      "tag": "baidupan-checkin-v0.6.0-alpha.8",
+      "released_at": "2026-11-03T10:40:16Z",
       "description": "百度网盘自动签到（纯协议，Bun/TS）",
       "platforms": [
         "🐧 Linux x64 (glibc)"
       ],
       "manifest_url": "https://raw.githubusercontent.com/wuhao1477/artifacts/main/baidupan-checkin/version.json",
-      "release_url": "https://github.com/wuhao1477/artifacts/releases/tag/baidupan-checkin-v0.6.0-alpha.7"
+      "release_url": "https://github.com/wuhao1477/artifacts/releases/tag/baidupan-checkin-v0.6.0-alpha.8"
     }
   },
-  "updated_at": "2026-11-03T10:33:02Z"
+  "updated_at": "2026-11-03T10:40:16Z"
 }
