@@ -11,11 +11,14 @@
 
 ## 📦 项目下载导航
 
+<!-- PROJECTS:START -->
 | 项目 | 说明 | 支持平台 | 下载 | 自动更新清单 |
 | :--- | :--- | :--- | :--- | :--- |
 | **baidupan-checkin** | 百度网盘自动签到（纯协议，Bun/TS） | 🐧 Linux x64/arm64 (glibc/musl)<br>🍏 macOS arm64/x64<br>🪟 Windows x64 | [📂 浏览所有版本](https://github.com/wuhao1477/artifacts/releases?q=baidupan-checkin-) | [`baidupan-checkin/version.json`](./baidupan-checkin/version.json) |
+<!-- PROJECTS:END -->
 
 > 💡 点上面的「浏览所有版本」，GitHub 会按 `baidupan-checkin-` 前缀过滤，得到完全独立的单项目版本页。
+> 本表格由源码库 CI 在发布时自动维护（`<!-- PROJECTS:START/END -->` 之间），不要手改。
 
 ---
 
