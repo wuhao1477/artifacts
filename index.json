@@ -7,14 +7,20 @@
     "baidupan-checkin": {
       "latest": "0.6.0-alpha.8",
       "tag": "baidupan-checkin-v0.6.0-alpha.8",
-      "released_at": "2026-11-03T10:40:16Z",
+      "released_at": "2026-11-03T12:21:47Z",
       "description": "百度网盘自动签到（纯协议，Bun/TS）",
       "platforms": [
-        "🐧 Linux x64 (glibc)"
+        "🍏 macOS arm64",
+        "🍏 macOS x64",
+        "🐧 Linux x64 (glibc)",
+        "🐧 Linux x64 (musl)",
+        "🐧 Linux arm64 (glibc)",
+        "🐧 Linux arm64 (musl)",
+        "🪟 Windows x64"
       ],
       "manifest_url": "https://raw.githubusercontent.com/wuhao1477/artifacts/main/baidupan-checkin/version.json",
       "release_url": "https://github.com/wuhao1477/artifacts/releases/tag/baidupan-checkin-v0.6.0-alpha.8"
     }
   },
-  "updated_at": "2026-11-03T10:40:16Z"
+  "updated_at": "2026-11-03T12:21:47Z"
 }

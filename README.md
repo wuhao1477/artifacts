@@ -14,7 +14,7 @@
 <!-- PROJECTS:START -->
 | 项目 | 说明 | 支持平台 | 下载 | 自动更新清单 |
 | :--- | :--- | :--- | :--- | :--- |
-| **baidupan-checkin** | 百度网盘自动签到（纯协议，Bun/TS） | 🐧 Linux x64 (glibc) | [📂 浏览所有版本](https://github.com/wuhao1477/artifacts/releases?q=baidupan-checkin-) | [`baidupan-checkin/version.json`](./baidupan-checkin/version.json) |
+| **baidupan-checkin** | 百度网盘自动签到（纯协议，Bun/TS） | 🍏 macOS arm64<br>🍏 macOS x64<br>🐧 Linux x64 (glibc)<br>🐧 Linux x64 (musl)<br>🐧 Linux arm64 (glibc)<br>🐧 Linux arm64 (musl)<br>🪟 Windows x64 | [📂 浏览所有版本](https://github.com/wuhao1477/artifacts/releases?q=baidupan-checkin-) | [`baidupan-checkin/version.json`](./baidupan-checkin/version.json) |
 <!-- PROJECTS:END -->
 
 > 💡 点上面的「浏览所有版本」，GitHub 会按 `baidupan-checkin-` 前缀过滤，得到完全独立的单项目版本页。
