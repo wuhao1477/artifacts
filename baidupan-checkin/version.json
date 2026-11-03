@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "project": "baidupan-checkin",
+  "repo": "wuhao1477/artifacts",
+  "source_repo": "wuhao1477/baidu-netdisk-checkin",
+  "tag_prefix": "baidupan-checkin-",
+  "latest": null,
+  "tag": null,
+  "released_at": null,
+  "notes": "本文件由源码库 CI 在每次发布时自动重写；latest=null 表示还没有任何发布",
+  "assets": {},
+  "sha256sums": null,
+  "release_url": null
+}

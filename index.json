@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "repo": "wuhao1477/artifacts",
+  "tag_pattern": "<project>-v<semver>",
+  "note": "本文件是全局索引；每个项目的详细清单见 <project>/version.json（由 CI 在发布时自动更新）",
+  "projects": {}
+}
