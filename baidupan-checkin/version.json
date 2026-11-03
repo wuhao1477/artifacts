@@ -4,22 +4,16 @@
   "repo": "wuhao1477/artifacts",
   "source_repo": "wuhao1477/baidu-netdisk-checkin",
   "tag_prefix": "baidupan-checkin-",
-  "latest": "0.6.0-alpha.6",
-  "tag": "baidupan-checkin-v0.6.0-alpha.6",
-  "released_at": "2026-11-03T09:53:02Z",
+  "latest": "0.6.0-alpha.7",
+  "tag": "baidupan-checkin-v0.6.0-alpha.7",
+  "released_at": "2026-11-03T10:33:02Z",
   "previous_latest": "0.6.0-alpha.6",
-  "release_url": "https://github.com/wuhao1477/artifacts/releases/tag/baidupan-checkin-v0.6.0-alpha.6",
-  "sha256sums": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.6/SHA256SUMS.txt",
+  "release_url": "https://github.com/wuhao1477/artifacts/releases/tag/baidupan-checkin-v0.6.0-alpha.7",
+  "sha256sums": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.7/SHA256SUMS.txt",
   "assets": {
-    "baidupan-checkin-macos-arm64": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.6/baidupan-checkin-macos-arm64",
-    "baidupan-checkin-macos-x64": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.6/baidupan-checkin-macos-x64",
-    "baidupan-checkin-linux-x64": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.6/baidupan-checkin-linux-x64",
-    "baidupan-checkin-linux-x64-musl": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.6/baidupan-checkin-linux-x64-musl",
-    "baidupan-checkin-linux-arm64": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.6/baidupan-checkin-linux-arm64",
-    "baidupan-checkin-linux-arm64-musl": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.6/baidupan-checkin-linux-arm64-musl",
-    "baidupan-checkin-windows-x64.exe": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.6/baidupan-checkin-windows-x64.exe",
-    "baidupan-checkin.sh": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.6/baidupan-checkin.sh",
-    "SHA256SUMS.txt": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.6/SHA256SUMS.txt"
+    "baidupan-checkin-linux-x64": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.7/baidupan-checkin-linux-x64",
+    "baidupan-checkin.sh": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.7/baidupan-checkin.sh",
+    "SHA256SUMS.txt": "https://github.com/wuhao1477/artifacts/releases/download/baidupan-checkin-v0.6.0-alpha.7/SHA256SUMS.txt"
   },
   "notes": "本文件由源码库 CI 在每次发布时自动重写；latest=null 表示还没有任何发布"
 }
