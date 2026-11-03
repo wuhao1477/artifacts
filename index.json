@@ -3,5 +3,24 @@
   "repo": "wuhao1477/artifacts",
   "tag_pattern": "<project>-v<semver>",
   "note": "本文件是全局索引；每个项目的详细清单见 <project>/version.json（由 CI 在发布时自动更新）",
-  "projects": {}
+  "projects": {
+    "baidupan-checkin": {
+      "latest": "0.6.0-alpha.6",
+      "tag": "baidupan-checkin-v0.6.0-alpha.6",
+      "released_at": "2026-11-03T09:25:25Z",
+      "description": "百度网盘自动签到（纯协议，Bun/TS）",
+      "platforms": [
+        "🍏 macOS arm64",
+        "🍏 macOS x64",
+        "🐧 Linux x64 (glibc)",
+        "🐧 Linux x64 (musl)",
+        "🐧 Linux arm64 (glibc)",
+        "🐧 Linux arm64 (musl)",
+        "🪟 Windows x64"
+      ],
+      "manifest_url": "https://raw.githubusercontent.com/wuhao1477/artifacts/main/baidupan-checkin/version.json",
+      "release_url": "https://github.com/wuhao1477/artifacts/releases/tag/baidupan-checkin-v0.6.0-alpha.6"
+    }
+  },
+  "updated_at": "2026-11-03T09:25:25Z"
 }
